@@ -16,16 +16,8 @@ public class HelloWorld
     public HelloWorld()
     {
         // initialise instance variables
-        
-    }
-    
-    /**
-     * Greet the world
-     * print a greeting on calling
-     */
-    private void greet(){
         System.out.println( "HelloWorld!");
-    
     }
+
 
 }
