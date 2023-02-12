@@ -9,6 +9,8 @@ public class Game2
 {
     private Parser parser;
     private Room currentRoom;
+    
+    ;
 
 
 
